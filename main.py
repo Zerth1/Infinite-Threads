@@ -4,7 +4,6 @@ from pyray import *
 from sympy import *
 import matplotlib.pyplot as plt
 import matplotlib as mpl
-import numpy as np
 import os
 import json
 import math
